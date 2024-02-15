@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kocumi_4621948", "Kocumi_4621948.csproj", "{99256F66-C58D-44CD-815D-4186ACD0D730}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test_Kocumi_4621948", "..\Test_Kocumi_4621948\Test_Kocumi_4621948.csproj", "{ABC503A0-C442-4602-A1C2-EEC6CD40813B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99256F66-C58D-44CD-815D-4186ACD0D730}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99256F66-C58D-44CD-815D-4186ACD0D730}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99256F66-C58D-44CD-815D-4186ACD0D730}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99256F66-C58D-44CD-815D-4186ACD0D730}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABC503A0-C442-4602-A1C2-EEC6CD40813B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABC503A0-C442-4602-A1C2-EEC6CD40813B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABC503A0-C442-4602-A1C2-EEC6CD40813B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABC503A0-C442-4602-A1C2-EEC6CD40813B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {20BAF94D-CD0F-46FA-B8DA-C89041CD901F}
+	EndGlobalSection
+EndGlobal
